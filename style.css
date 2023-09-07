@@ -87,3 +87,12 @@ body{
 .incorrect{
     background: #ff9393;
 }
+footer{
+    position: relative;
+}
+footer p{
+    position: absolute;
+    top: 200px;
+    left: 30%;
+    color: #fff;
+}
